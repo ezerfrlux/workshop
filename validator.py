@@ -4,6 +4,10 @@
 # Al menos una mayuscula
 # Al menos un numero
 # Minimo 8 caracteres
+
+
+
+
 print("Ingrese su password:")
 password = input()
 minLenPassword = 8

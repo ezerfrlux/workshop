@@ -1,0 +1,1 @@
+# Refactorizar validator.py con programcion orientada a objetos
